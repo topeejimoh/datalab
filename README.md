@@ -42,8 +42,8 @@ Each folder in this repository contains project files, datasets (where shareable
 - **Examples:**  
   - Data wrangling scripts  
   - Automated visualizations  
-  - Report generation  
-*Stay tuned — more projects will be added shortly as I continue building my portfolio.*  
+  - Report generation
+    
 ---
 
 ## 🛠️ Tech Stack
@@ -61,5 +61,7 @@ Each folder in this repository contains project files, datasets (where shareable
 - **Email:** topeejimoh@gmail.com  
 
 ---
+
+*Stay tuned — more projects will be added shortly as I continue building my portfolio.*  
 
 ✨ *Empowering Insights, Simplifying Success – through data.*
