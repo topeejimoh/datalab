@@ -15,7 +15,7 @@ I specialize in:
 
 ---
 
-## 📂 Projects in DataLab
+## 📂 Planned Projects in DataLab
 Each folder in this repository contains project files, datasets (where shareable), and documentation.
 
 ### 1️⃣ Energy Usage Dashboard (Power BI)
@@ -43,7 +43,7 @@ Each folder in this repository contains project files, datasets (where shareable
   - Data wrangling scripts  
   - Automated visualizations  
   - Report generation  
-
+*Stay tuned — more projects will be added shortly as I continue building my portfolio.*  
 ---
 
 ## 🛠️ Tech Stack
