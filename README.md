@@ -57,7 +57,7 @@ Each folder in this repository contains project files, datasets (where shareable
 
 ## 📬 Contact
 - **LinkedIn:** [linkedin.com/in/temitope-jimoh](https://linkedin.com/in/tjimoh)  
-- **GitHub Pages Portfolio:** [Visit DataLab Website](https://topeejimoh.github.io/datalab)  
+- **GitHub Pages Portfolio:** [Visit DataLab Website]((https://github.com/topeejimoh/datalab).
 - **Email:** topeejimoh@gmail.com  
 
 ---
